@@ -24,8 +24,6 @@ Techy is a fully responsive, modern website clone for an IT solutions and techno
   - Blog
   - Contact
 
-## 🖼️ Screenshots
-[Add screenshots of your website here]
 
 ## 🛠️ Installation
 
